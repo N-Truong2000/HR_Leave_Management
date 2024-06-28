@@ -1,0 +1,42 @@
+2024-05-30 21:27:12.883 +07:00 [INF] HTTP OPTIONS /api/Auth/login responded 204 in 1.1143 ms
+2024-05-30 21:27:12.895 +07:00 [INF] CustomScheme was not authenticated. Failure message: Access denied. User is not authorized 123.
+2024-05-30 21:27:14.129 +07:00 [INF] HTTP POST /api/Auth/login responded 200 in 1239.4602 ms
+2024-05-30 21:27:47.635 +07:00 [INF] HTTP OPTIONS /api/Auth/login responded 204 in 0.5146 ms
+2024-05-30 21:27:47.639 +07:00 [INF] CustomScheme was not authenticated. Failure message: Access denied. User is not authorized 123.
+2024-05-30 21:27:48.021 +07:00 [ERR] HTTP POST /api/Auth/login responded 500 in 382.4326 ms
+HR.LeaveManagement.Application.Exceptions.BadRequestException: Credentials for 'admin@localhost.com aren't valid'.
+   at HR.LeaveManagement.Identity.Services.AuthService.Login(AuthRequest request) in D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Identity\Services\AuthService.cs:line 42
+   at HR.LeaveManagement.Api.Controllers.AuthController.Login(AuthRequest request) in D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\Controllers\AuthController.cs:line 21
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-05-30 21:27:48.165 +07:00 [ERR] {"Type":"BadRequestException","Title":"Credentials for \u0027admin@localhost.com aren\u0027t valid\u0027.","Status":400,"Errors":null}
+HR.LeaveManagement.Application.Exceptions.BadRequestException: Credentials for 'admin@localhost.com aren't valid'.
+   at HR.LeaveManagement.Identity.Services.AuthService.Login(AuthRequest request) in D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Identity\Services\AuthService.cs:line 42
+   at HR.LeaveManagement.Api.Controllers.AuthController.Login(AuthRequest request) in D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\Controllers\AuthController.cs:line 21
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at HR.LeaveManagement.Api.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Api\Middleware\ExceptionMiddleware.cs:line 22

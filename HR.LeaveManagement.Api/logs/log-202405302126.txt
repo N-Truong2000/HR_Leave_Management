@@ -1,0 +1,5 @@
+2024-05-30 21:26:51.247 +07:00 [INF] Now listening on: https://localhost:7090
+2024-05-30 21:26:51.271 +07:00 [INF] Now listening on: http://localhost:5203
+2024-05-30 21:26:51.274 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-30 21:26:51.274 +07:00 [INF] Hosting environment: Development
+2024-05-30 21:26:51.275 +07:00 [INF] Content root path: D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Api

@@ -1,0 +1,11 @@
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.deps.json
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.dll
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\refint\HR.LeaveManagement.Domain.dll
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\ref\HR.LeaveManagement.Domain.dll

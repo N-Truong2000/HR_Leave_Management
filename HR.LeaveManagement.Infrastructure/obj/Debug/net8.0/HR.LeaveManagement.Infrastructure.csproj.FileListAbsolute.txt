@@ -1,0 +1,17 @@
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.deps.json
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.dll
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.pdb
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.dll
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\refint\HR.LeaveManagement.Infrastructure.dll
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.pdb
+D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\ref\HR.LeaveManagement.Infrastructure.dll

@@ -1,0 +1,111 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = HR.LeaveManagement.BlazorUI
+build_property.RootNamespace = HR.LeaveManagement.BlazorUI
+build_property.ProjectDir = D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Udemy\HR.LeaveManagement.Clean\HR.LeaveManagement.BlazorUI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveRequests/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVSZXF1ZXN0c1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveRequests/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVSZXF1ZXN0c1xEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveRequests/EmployeeIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVSZXF1ZXN0c1xFbXBsb3llZUluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveRequests/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVSZXF1ZXN0c1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/FormComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xGb3JtQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Shared/BackToList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJhY2tUb0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6fark8ny1w
+
+[D:/Udemy/HR.LeaveManagement.Clean/HR.LeaveManagement.BlazorUI/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-76wwct2hkl
